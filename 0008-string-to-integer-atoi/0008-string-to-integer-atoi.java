@@ -3,7 +3,7 @@ class Solution {
         int ans = 0;
         boolean positive = true;
         StringBuilder sb = new StringBuilder(s);
-         while (sb.length() > 0 && sb.charAt(0) == ' ') {
+        while (sb.length() > 0 && sb.charAt(0) == ' ') {
             sb.delete(0, 1);
         }
         if (sb.length() > 0 && sb.charAt(0) == '-') {
