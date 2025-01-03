@@ -1,28 +1,29 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
+        // only add open paranthesis if open < n
+        // only add a closing paranthesis if closed < open
+        // valid IIF open == closed == n
         List<String> result = new ArrayList<>();
-
-        backtrack(result, new StringBuilder(), 0, 0, n);
-        
+        backtrack(n,new StringBuilder(),0,0,result);
         return result;
     }
-    
-    private void backtrack(List<String> result, StringBuilder current, int open, int close, int max) {
-        if (current.length() == max * 2) {
-            result.add(current.toString());
+
+    public void backtrack(int n,StringBuilder sb,int open,int close,List<String> result){
+        if(open == n && close == n){
+            result.add(sb.toString());
             return;
         }
-        
-        if (open < max) {
-            current.append("(");
-            backtrack(result, current, open + 1, close, max);
-            current.setLength(current.length() - 1);
+
+        if(open < n){
+            sb.append('(');
+            backtrack(n,sb,open + 1,close,result);
+            sb.deleteCharAt(sb.length() - 1);
         }
-        
-        if (close < open) {
-            current.append(")");
-            backtrack(result, current, open, close + 1, max);
-            current.setLength(current.length() - 1);
+
+        if(close < open){
+            sb.append(')');
+            backtrack(n,sb,open,close+1,result);
+            sb.deleteCharAt(sb.length() - 1);
         }
     }
 }
