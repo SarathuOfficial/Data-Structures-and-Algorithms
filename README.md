@@ -24,4 +24,9 @@ Happy coding! 😊
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
