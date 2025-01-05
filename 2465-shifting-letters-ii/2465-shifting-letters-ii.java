@@ -17,7 +17,6 @@ class Solution {
         int shift = 0;
         for (int i = 0; i < sb.length(); i++) {
             shift += prefix[i];
-
             int originalChar = sb.charAt(i) - 'a';
             int newChar = (originalChar + shift) % 26; 
             if (newChar < 0) {
