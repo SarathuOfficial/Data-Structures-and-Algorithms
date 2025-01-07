@@ -16,6 +16,7 @@ Happy coding! 😊
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
@@ -31,6 +32,7 @@ Happy coding! 😊
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+| [1524-string-matching-in-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -38,4 +40,8 @@ Happy coding! 😊
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
