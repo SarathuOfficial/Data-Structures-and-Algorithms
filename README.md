@@ -16,6 +16,7 @@ Happy coding! 😊
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0952-word-subsets](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -34,6 +35,7 @@ Happy coding! 😊
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+| [0952-word-subsets](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -62,4 +64,8 @@ Happy coding! 😊
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Table
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 <!---LeetCode Topics End-->
