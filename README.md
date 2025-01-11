@@ -17,6 +17,7 @@ Happy coding! 😊
 | [0008-string-to-integer-atoi](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0952-word-subsets](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -68,4 +69,13 @@ Happy coding! 😊
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
