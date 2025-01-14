@@ -43,6 +43,7 @@ Happy coding! 😊
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
@@ -72,6 +73,7 @@ Happy coding! 😊
 | ------- |
 | [0952-word-subsets](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -87,4 +89,8 @@ Happy coding! 😊
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
