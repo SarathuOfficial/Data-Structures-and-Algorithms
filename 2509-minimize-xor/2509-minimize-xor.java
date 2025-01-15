@@ -1,7 +1,6 @@
 class Solution {
     public int minimizeXor(int num1, int num2) {
         int setbits = Integer.bitCount(num2);
-
         String binaryString = Integer.toBinaryString(num1);
         StringBuilder res = new StringBuilder(binaryString);
 
