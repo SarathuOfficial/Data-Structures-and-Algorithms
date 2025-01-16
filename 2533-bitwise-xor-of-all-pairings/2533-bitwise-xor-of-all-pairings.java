@@ -12,6 +12,7 @@ class Solution {
                 res = res ^ nums2[i];
             }
         }
+        
         return res;
     }
 }
