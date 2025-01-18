@@ -18,7 +18,7 @@ class Solution {
             if(visited[x][y] == true){
                 continue;
             }
-            if(x == m - 1 && y == n - 1){
+            if(x == m-1 && y == n-1){
                 return cost;
             }
             visited[x][y] = true;
@@ -29,15 +29,13 @@ class Solution {
 
                 if(isValid(newx, newy, m, n) && !visited[newx][newy]){
                     int newcost = cost;
-                    if( i + 1 != grid[x][y]){
+                    if( i+1 != grid[x][y]){
                         newcost += 1;
                     }
                     min.add(new int[]{newcost,newx,newy});
                 }
             }
-
         }
-
         return 0;
     }
 
