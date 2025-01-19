@@ -3,11 +3,9 @@ class Solution {
         PriorityQueue<int[]> min = new PriorityQueue<>((a, b) -> Integer.compare(a[0], b[0]));
         int m = heightMap.length;
         int n = heightMap[0].length;
-
         if(m < 2 || n < 2){
             return 0;
         }
-
         int level = 0;
         int filled = 0;
         boolean visited[][] = new boolean[m][n];
