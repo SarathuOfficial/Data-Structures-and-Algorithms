@@ -16,18 +16,18 @@ class Solution {
             }
         }
 
-        int communicableServersCount = 0;
+        int res = 0;
 
         for (int row = 0; row < grid.length; row++) {
             for (int col = 0; col < grid[0].length; col++) {
                 if (grid[row][col] == 1) {
                     if (rowCounts[col] > 1 || colCounts[row] > 1) {
-                        communicableServersCount++;
+                        res++;
                     }
                 }
             }
         }
 
-        return communicableServersCount;
+        return res;
     }
 }
