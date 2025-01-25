@@ -25,6 +25,7 @@ Happy coding! 😊
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ Happy coding! 😊
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -65,6 +67,7 @@ Happy coding! 😊
 | [2145-grid-game](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String Matching
 |  |
 | ------- |
