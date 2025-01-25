@@ -20,7 +20,7 @@ class Solution {
 
             Collections.sort(pos);
 
-            for (int i = 0; i < right - left; i++) {
+            for (int i = 0; i < pos.size(); i++) {
                 nums[pos.get(i)] = copy.get(left + i)[0];
             }
 
