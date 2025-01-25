@@ -19,6 +19,7 @@ Happy coding! 😊
 | [0952-word-subsets](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -56,6 +57,7 @@ Happy coding! 😊
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
