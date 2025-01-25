@@ -49,6 +49,7 @@ Happy coding! 😊
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2358-number-of-ways-to-split-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
@@ -62,6 +63,7 @@ Happy coding! 😊
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2145-grid-game) |
+| [2358-number-of-ways-to-split-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2465-shifting-letters-ii) |
 ## String Matching
 |  |
