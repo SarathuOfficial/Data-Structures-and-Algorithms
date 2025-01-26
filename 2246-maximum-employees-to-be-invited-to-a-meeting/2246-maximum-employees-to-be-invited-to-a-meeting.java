@@ -1,4 +1,6 @@
 class Solution {
+    //to identify where the cycle is there in the graph(it may be in the middle or starting or end)
+    //mark all non-cyclic nodes as false
     private int kahnsTopologicalSort(int[] adj, int[] indegree, boolean[] visited, int source) {
         Queue<Integer> queue = new LinkedList<>();
         queue.offer(source);
@@ -18,6 +20,7 @@ class Solution {
         return adj[lastNode];
     }
 
+    //to find max length of tail-ends
     private int maxDepthBFS(List<List<Integer>> reverseAdj, boolean[] origVisited, int n, int source, int avoid) {
         boolean[] visited = new boolean[n];
         Queue<Integer> queue = new LinkedList<>();
@@ -44,6 +47,7 @@ class Solution {
         return levels;
     }
 
+    //to know the size of the cycle(it may be 2 or 3,etc..)
     private int bfs(int[] adj, boolean[] visited, int source) {
         Queue<Integer> queue = new LinkedList<>();
         queue.offer(source);
