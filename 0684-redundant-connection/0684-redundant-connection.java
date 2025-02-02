@@ -17,7 +17,7 @@ class Solution {
             if(parentX == parentY){ 
                 return edge;
             }else{ 
-                dsuf[parentX] = parentY;
+                dsuf[parentY] = parentX;
             }    
         }
         return new int[]{0, 0};
