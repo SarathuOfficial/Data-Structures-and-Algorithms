@@ -6,11 +6,11 @@ class Solution {
         int low = 1;int high = 1;
 
         for(int i = 0;i < nums.length - 1;i++){
-            if(nums[i] > nums[i+1]){
+            if(nums[i] < nums[i+1]){
                 high++;
                 low = 1;
                 incr = Math.max(incr,high);
-            }else if(nums[i] < nums[i+1]){
+            }else if(nums[i] > nums[i+1]){
                 low++;
                 high = 1;
                 decr = Math.max(decr,low);
