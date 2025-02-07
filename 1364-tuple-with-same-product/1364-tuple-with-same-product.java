@@ -5,7 +5,7 @@ class Solution {
 
     public int tupleSameProduct(int[] nums) {
         int n = nums.length;
-        HashMap<Integer, Integer> freq = new HashMap<>(); // K -> product, V -> frequency of such pair
+        HashMap<Integer, Integer> freq = new HashMap<>(); 
 
         for (int i = 0; i < n - 1; ++i) {
             for (int j = i + 1; j < n; ++j) {
