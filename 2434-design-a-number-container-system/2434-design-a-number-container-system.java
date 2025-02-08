@@ -17,7 +17,7 @@ private Map<Integer, Integer> indexNumber;
         }
 
         indexNumber.put(index, number);
-        numberIndices.computeIfAbsent(number, k -> new TreeSet<>()).add(index);
+        numberIndices.computeIfAbsent(number, k -> new TreeSet<>()).add(index);//k represents the key we are checking (in this case, number)
     }
 
     public int find(int number) {
