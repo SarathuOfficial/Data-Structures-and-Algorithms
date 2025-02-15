@@ -40,6 +40,7 @@ Happy coding! 😊
 | ------- |
 | [0022-generate-parentheses](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
 |  |
 | ------- |
@@ -247,6 +248,7 @@ Happy coding! 😊
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Data Stream
 |  |
 | ------- |
