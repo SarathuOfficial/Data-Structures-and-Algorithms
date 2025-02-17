@@ -17,6 +17,7 @@ Happy coding! 😊
 | [0008-string-to-integer-atoi](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0952-word-subsets](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -40,6 +41,7 @@ Happy coding! 😊
 | ------- |
 | [0022-generate-parentheses](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+| [1160-letter-tile-possibilities](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
@@ -110,6 +112,7 @@ Happy coding! 😊
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -130,6 +133,7 @@ Happy coding! 😊
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
