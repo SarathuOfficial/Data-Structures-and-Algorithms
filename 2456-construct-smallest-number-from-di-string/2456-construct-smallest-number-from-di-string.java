@@ -1,25 +1,17 @@
 class Solution {
     public String smallestNumber(String pattern) {
         int n = pattern.length();
-        StringBuilder result = new StringBuilder();
-        HashMap<Integer, Boolean> visited = new HashMap<>(); 
+        Stack<Integer> st = new Stack<>();
+        StringBuilder res = new StringBuilder();
 
-        Stack<Integer> stack = new Stack<>();
-        
-        for (int i = 0; i <= n; i++) {
-            stack.push(i + 1);  
-            
-            if (i == n || pattern.charAt(i) == 'I') {
-                while (!stack.isEmpty()) {
-                    int num = stack.pop();
-                    if (!visited.containsKey(num)) {
-                        result.append(num);
-                        visited.put(num, true);  
-                    }
+        for (int i = 1; i <= n + 1; ++i) {
+            st.push(i);
+            if (i == n + 1 || pattern.charAt(i - 1) == 'I') {
+                while (!st.isEmpty()) {
+                    res.append(st.pop());
                 }
             }
         }
-        
-        return result.toString();
+        return res.toString();
     }
 }
