@@ -28,7 +28,6 @@ class FindElements {
 
     private void recoverBinaryTree(TreeNode curr, int val) {
         if (curr == null) return;
-
         curr.val = val;
         nodeValues.add(val);
         recoverBinaryTree(curr.left, 2 * val + 1);
