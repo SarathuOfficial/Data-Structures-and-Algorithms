@@ -89,6 +89,7 @@ Happy coding! 😊
 | [2564-most-profitable-path-in-a-tree](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
@@ -145,6 +146,7 @@ Happy coding! 😊
 | [2448-count-number-of-bad-pairs](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -315,4 +317,5 @@ Happy coding! 😊
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
