@@ -297,6 +297,7 @@ Happy coding! 😊
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Data Stream
@@ -326,4 +327,8 @@ Happy coding! 😊
 | [2265-partition-array-according-to-given-pivot](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
