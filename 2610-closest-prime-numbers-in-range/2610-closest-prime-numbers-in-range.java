@@ -6,14 +6,16 @@ class Solution {
                 prime.add(i);
             }
         }
-        int res[] = {-1,-1};
-        int range = Integer.MAX_VALUE;
-        for(int i = 0;i < prime.size() - 1;i++){
-            int updated = range;
-            range = Math.min(range,prime.get(i + 1) - prime.get(i));
-            if(range != updated){
+        int res[] = {-1, -1};
+        int minRange = Integer.MAX_VALUE;
+
+        for (int i = 0; i < prime.size() - 1; i++) {
+            int diff = prime.get(i + 1) - prime.get(i);
+            
+            if (diff < minRange) {
+                minRange = diff;
                 res[0] = prime.get(i);
-                res[1] = prime.get(i+1);
+                res[1] = prime.get(i + 1);
             }
         }
         return res;
