@@ -1,9 +1,6 @@
 class Solution {
     public int[] closestPrimes(int left, int right) {
         ArrayList<Integer> prime = new ArrayList<>();
-        // if(left == 1){
-        //     prime.add(1);
-        // }
         for(int i = left;i <= right;i++){
             if(isPrime(i)){
                 prime.add(i);
