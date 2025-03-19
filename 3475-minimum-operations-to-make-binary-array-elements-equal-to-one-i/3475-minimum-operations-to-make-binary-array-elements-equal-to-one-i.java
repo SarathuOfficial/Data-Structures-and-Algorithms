@@ -18,7 +18,7 @@ class Solution {
         }
 
         if (nums[n - 2] == 0 || nums[n - 1] == 0) {
-            return -1; // If not, return -1
+            return -1; 
         }
 
         return operations; 
