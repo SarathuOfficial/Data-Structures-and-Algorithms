@@ -28,13 +28,11 @@ class Solution {
             xCoordinates.add(new Pair(rectangle[2], 0)); // End of horizontal segment
         }
 
-        // Sort first by coordinate value, then by type (ensuring starts come before ends)
         Comparator<Pair> comparator = (a, b) -> a.first == b.first ? Integer.compare(a.second, b.second) : Integer.compare(a.first, b.first);
         
         Collections.sort(yCoordinates, comparator);
         Collections.sort(xCoordinates, comparator);
 
-        // Line-Sweep on x and y coordinates
         return countLineIntersections(yCoordinates) || countLineIntersections(xCoordinates);
     }
 }
