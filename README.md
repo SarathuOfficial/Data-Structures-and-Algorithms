@@ -46,6 +46,7 @@ Happy coding! 😊
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0368-largest-divisible-subset](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -68,6 +69,7 @@ Happy coding! 😊
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+| [0368-largest-divisible-subset](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -338,6 +340,7 @@ Happy coding! 😊
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -369,6 +372,7 @@ Happy coding! 😊
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SarathuOfficial/Data-Structures-and-Algorithms/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
