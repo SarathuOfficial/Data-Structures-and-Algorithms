@@ -3,7 +3,6 @@ class Solution {
         int n = nums.length;
         List<Integer> ans = new ArrayList<>();
         
-        // Step-1: Sort the array and Find LIS length
         Arrays.sort(nums);
         int lis = 1;
         int[] dp = new int[n];
@@ -20,7 +19,6 @@ class Solution {
             }
         }
         
-        // Step-2: Find one possible LIS
         int prev = -1;
         for (int i = n - 1; i >= 0; i--) {
             if (dp[i] == lis && (prev == -1 || prev % nums[i] == 0)) {
